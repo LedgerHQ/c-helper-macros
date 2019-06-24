@@ -54,7 +54,7 @@
 #endif
 
 #ifndef DBGLOG_FUNCTION
-#  define DBGLOG_FUNCTION printf
+#  define DBGLOG_FUNCTION PRINTF
 #endif
 
 /* ------------------------------------------------------------------------- */
